@@ -16,7 +16,7 @@ import RecordingEditor from "./Recording-Editor";
 import { createNote } from "../graphql/mutations";
 
 const Container = styled("div")`
-  margin: 16px auto; 
+  margin: 16px auto;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
